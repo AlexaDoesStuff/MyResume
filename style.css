@@ -23,6 +23,17 @@
   padding: 30px;
 }
 
+.new-section {
+  background-color: #fcba03;
+  color: darkslategray;
+  margin: 20px;
+}
+
+#skill-list {
+    background-image: linear-gradient(to right, magenta , royalblue);
+
+}
+
 #footer-class { /* id selection*/
   background-color: lightcoral;
   color: white;
